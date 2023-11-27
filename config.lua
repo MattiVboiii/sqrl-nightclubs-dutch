@@ -4,8 +4,8 @@ Config.Enterance = {
     ['Blip'] = {
         sprite = 614, -- https://docs.fivem.net/docs/game-references/blips/
         color = 28, -- Color of blip https://docs.fivem.net/docs/game-references/blips/
-        coords = vector4(371.28, 252.5, 103.01, 144.48),
-        name = 'Night Club Enterance'
+        coords = vector4(195.52, -3167.35, 5.79, 273.88),
+        name = 'Nachtclub'
     }
 }
 
@@ -17,227 +17,227 @@ Config.Price = {
         ['Name'] = { -- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
             ['Galaxy'] = {
                 name = 'Int01_ba_clubname_01',
-                description = 'Name is Galaxy',
+                description = 'De naam is Galaxy',
                 price = 25000
             },
             ['Studio'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_clubname_02',
-                description = 'Name is Studio',
+                description = 'De naam is Studio',
                 price = 25000
             },
             ['Omega'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_clubname_03',
-                description = 'Name is Omega',
+                description = 'De naam is Omega',
                 price = 25000
             },
             ['Technologie'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_clubname_04',
-                description = 'Name is Technologie',
+                description = 'De naam is Technologie',
                 price = 25000
             },
             ['Gefangnis'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_clubname_05',
-                description = 'Name is Gefangnis',
+                description = 'De naam is Gefangnis',
                 price = 25000
             },
             ['Misonette'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_clubname_06',
-                description = 'Name is Misonette',
+                description = 'De naam is Misonette',
                 price = 25000
             },
             ['Tony'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_clubname_07',
-                description = 'Name is Tony',
+                description = 'De naam is Tony',
                 price = 25000
             },
             ['Place'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_clubname_08',
-                description = 'Name is Place',
+                description = 'De naam is Place',
                 price = 25000
             },
             ['Paradise'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_clubname_09',
-                description = 'Name is Paradise',
+                description = 'De naam is Paradise',
                 price = 25000
             },
         },
         ['Style'] = {
             ['Traditional'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_Style01',
-                description = 'Traditional Style',
+                description = 'Klassieke stijl',
                 price = 15000
             },
             ['Edgy'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_Style02',
-                description = 'Edgy Style',
+                description = 'Stijlvol',
                 price = 15000
             },
             ['Glamerous'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_Style03',
-                description = 'Glamerous Style',
+                description = 'Gloeiende stijl',
                 price = 15000
             },
         },
         ['Podium'] = {
             ['Traditional'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_style01_podium',
-                description = 'Traditional Style',
+                description = 'Klassieke stijl',
                 price = 5000
             },
             ['Edgy'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_style02_podium',
-                description = 'Edgy Style',
+                description = 'Stijlvol',
                 price = 5000
             },
             ['Glamerous'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_style03_podium',
-                description = 'Glamerous Style',
+                description = 'Gloeiende stijl',
                 price = 5000
             },
         },
         ['Speakers'] = {
             ['Basic'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_equipment_setup',
-                description = 'Basic Speakers',
+                description = 'Basis luidsprekers',
                 price = 5000
             },
             ['Ultimate'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_equipment_upgrade',
-                description = 'Ultimate Speakers',
+                description = 'Ultieme luidsprekers',
                 price = 5000
             },
         },
         ['Security'] = {
             ['Basic'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_security_upgrade',
-                description = 'Basic Security',
+                description = 'Basisbeveiliging',
                 price = 3000
             },
         },
         ['Turntables'] = {
             ['Basic'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_dj01',
-                description = 'Basic Turntables',
+                description = 'Basis draaitafels',
                 price = 3000
             },
             ['Upgraded'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_dj02',
-                description = 'Upgraded Turntables',
+                description = 'Verbeterde draaitafels',
                 price = 4000
             },
             ['Mega'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_dj03',
-                description = 'Mega Turntables',
+                description = 'Mega draaitafels',
                 price = 5000
             },
             ['Ultimate'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_dj04',
-                description = 'Ultimate Turntables',
+                description = 'Ultieme draaitafels',
                 price = 6000
             },
         },
         ['Droplets'] = {
             ['Yellow'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_01_Lights_01',
-                description = 'Yellow Droplets',
+                description = 'Gele druppeltjes',
                 price = 5000
             },
             ['White'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_02_Lights_01',
-                description = 'White Droplets',
+                description = 'Witte druppels',
                 price = 5000
             },
             ['Purple'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_03_Lights_01',
-                description = 'Purple Droplets',
+                description = 'Paarse druppels',
                 price = 5000
             },
             ['Cayn'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_04_Lights_01',
-                description = 'Cayn Droplets',
+                description = 'Cayn druppels',
                 price = 5000
             },
         },
         ['Neons'] = {
             ['Yellow'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_01_Lights_02',
-                description = 'Yellow Neons',
+                description = 'Gele neonlichten',
                 price = 5000
             },
             ['White'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_02_Lights_02',
-                description = 'White Neons',
+                description = 'Witte neonlichten',
                 price = 5000
             },
             ['Purple'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_03_Lights_02',
-                description = 'Purple Neons',
+                description = 'Paarse neonlichten',
                 price = 5000
             },
             ['Cayn'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_04_Lights_02',
-                description = 'Cayn Neons',
+                description = 'Cayn neonlichten',
                 price = 5000
             },
         },
         ['Bands'] = {
             ['Yellow'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_01_Lights_03',
-                description = 'Yellow Bands',
+                description = 'Gele bandjes',
                 price = 5000
             },
             ['Green'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_02_Lights_03',
-                description = 'Green Bands',
+                description = 'Groene bandjes',
                 price = 5000
             },
             ['White'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_03_Lights_03',
-                description = 'White Bands',
+                description = 'Witte bandjes',
                 price = 5000
             },
             ['Cayn'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_04_Lights_03',
-                description = 'Cayn Bands',
+                description = 'Cayn bandjes',
                 price = 5000
             },
         },
         ['Lasers'] = {
             ['Yellow'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_01_Lights_04',
-                description = 'Yellow Lasers',
+                description = 'Gele lasers',
                 price = 5000
             },
             ['Green'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_02_Lights_04',
-                description = 'Green Lasers',
+                description = 'Groene lasers',
                 price = 5000
             },
             ['White'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_03_Lights_04',
-                description = 'White Lasers',
+                description = 'Witte lasers',
                 price = 5000
             },
             ['Purple'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'DJ_04_Lights_04',
-                description = 'Purple Lasers',
+                description = 'Paarse lasers',
                 price = 5000
             },
         },
         ['Booze'] = {
             ['1'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_booze_01',
-                description = 'Booze Type 1',
+                description = 'Drank Type 1',
                 price = 5000
             },
             ['2'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_booze_02',
-                description = 'Booze Type 2',
+                description = 'Drank Type 2',
                 price = 5000
             },
             ['3'] = {-- DO NOT EDIT ANYTHING BUT DESCRIPTING OR PRICE
                 name = 'Int01_ba_booze_03',
-                description = 'Booze Type 3',
+                description = 'Drank Type 3',
                 price = 5000
             },
         },
@@ -248,7 +248,7 @@ Config.PosterMission = {
     blip = {
         sprite = 397, -- https://docs.fivem.net/docs/game-references/blips/
         color = 66, -- Blip color
-        name = 'Poster Location'
+        name = 'Poster locatie'
     },
     place = { -- Where they will have toput up posters for the missions, this affects popularity
         [1] = {
@@ -300,7 +300,7 @@ Config.EffectsMission = { -- If they dont want to pay for effects, they can get 
     blip = {
         sprite = 397,
         color = 66,
-        name = 'Points of Interest'
+        name = 'Nuttige punten'
     },
     place = {
         [1] = {
@@ -322,7 +322,7 @@ Config.FoodMission = { -- Has to get food otherwise populatity will go down
     blip = {
         sprite = 397,
         color = 66,
-        name = 'Points of Interest - Food'
+        name = 'Nuttige punten - Eten'
     },
     max = 50, -- Max amount off ood
     remove = 15, -- Food that is removed every day at spefied time
